@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: rgb(0, 0, 8);
+    background-color: #ffffff;
+}
+
+h2{
+    color: #06070a;
+}
+
+header {
+    background-color: rgba(91, 199, 122, 0.861);
+    color: #080707;
+    padding: 20px;
+    text-align: center;
+}
+
+
+section {
+    padding: 20px;
+    border-bottom: 1px solid #0b6e26;
+}
+
+button {
+    display: block;
+    margin: 20px auto;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: none;
+    background-color: #4ad07f;
+    color: white;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
